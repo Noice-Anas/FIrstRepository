@@ -1,0 +1,1 @@
+this is the first file that I am trying git with through the command line
